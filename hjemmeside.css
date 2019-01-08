@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*{ font-family: 'Rubik', sans-serif; 
+	font-family: 'Hind Siliguri', sans-serif;}*/
+
+/*{ }*/
+
+.wrapper { 
+margin: auto;
+}
+
+article {
+	width: 85%;
+	height: 100%;
+	float: right;
+	
+}
+
+header {
+	background-color: #004a7c;
+	width: 15%;
+	height: 100%;
+	max-width: 20%;
+	position: fixed;
+}
+
+.logo {
+}
+
+.logobox {
+	height: auto;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 35px;
+}
+
+.house {
+	width: 100%;
+	margin-top: 100px;
+}
+
+.paper {
+	margin-top: 50px;
+	width: 100%;
+}
+
+.cv { 
+	margin-top: 50px;
+	width: 100%;
+	
+}
+
+.box {
+	width: 60px;
+	margin: auto;
+	padding-top: 40px;
+}
+
+.nav { 	
+	width: 100%;
+	margin-top: 50px;
+}
+
+.reportbox {
+	margin: auto;
+}
+
+.report1 {
+	font-family: 'Rubik', sans-serif;
+	height: 50px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: #004a7c;
+	margin: auto;
+	width: 350px; 
+	border-radius: 25px;
+}
+
+.dokumentation { float: left; }
+
+.produkt { float: right}
+
+p { 
+	color: #FFFFFF;
+}
+
+h4 {
+	font-style: bold;
+	font-family: 'Hind Siliguri', sans-serif;
+	font-size: 30px;
+	margin-top: 40px;
+	text-align: center;
+	color: #FFFFFF;
+	margin-bottom: 9px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+  	background-image:url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: fixed;
+	
+}
+
+.clear { 
+clear: right;
+}
